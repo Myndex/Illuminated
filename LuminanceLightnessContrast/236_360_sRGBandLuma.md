@@ -1,3 +1,5 @@
+### Circa 2019
+
 Hi @danburzo @peteroupc @moekraft @xi 
 
 I see this issue is still open, and it is also discussed in issue #360, and is discussed more in depth over there (this issue should probably be merged??). It is also a tangential part of #695, which is looking into more advanced contrast math.
