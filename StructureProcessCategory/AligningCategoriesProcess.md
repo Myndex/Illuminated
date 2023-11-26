@@ -26,7 +26,7 @@ If we think about this from the user-need perspective, the four related core use
 
 
 <details>
-<summary><a id="this" href="this"><b>CLICK</b></a> (open/close)</a> <i>Detailed User Needs Summary</i></summary>
+<summary><a id="this" href="#this"><b>CLICK</b></a> (open/close)</a> <i>Detailed User Needs Summary</i></summary>
 ⇩ ⇩ ⇩ ⇩ ⇩
 
 
@@ -93,7 +93,7 @@ _END Detailed User Needs Summary_
 -----
 
 <details>
-<summary><a id="this2" href="this2"><b>CLICK</b></a> (open/close) <i>Connect User Needs to Design Elements</i></summary>
+<summary><a id="this2" href="#this2"><b>CLICK</b></a> (open/close) <i>Connect User Needs to Design Elements</i></summary>
 ⇩ ⇩ ⇩ ⇩ ⇩
 
 For the four core readability needs, _acuity, contrast, color, coga,_ we find that:
@@ -183,7 +183,7 @@ I think it's best to group by
 For instance, luminance is achromatic (disregards hue) and is processed by the human vision system _separately_ from color (hue/saturation). Luminance (lightness) serves different functions from color (hue/sat) including cognitive, language, object recognition, motion, etc. 
 
 <details>
-<summary><a id="this" href="this"><b>CLICK</b></a> (open/close)</a> <i>Grouping by Process/Function</i></summary>
+<summary><a id="this3" href="#this3"><b>CLICK</b></a> (open/close)</a> <i>Grouping by Process/Function</i></summary>
 ⇩ ⇩ ⇩ ⇩ ⇩
 
 ## Stimulus Processing and Impairments
