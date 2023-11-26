@@ -230,7 +230,7 @@ _END Grouping by Process/Function_
 
 -----
 
-_Footnotes to "Font - Layout"_
+_Footnotes to "Font - Layout"_     
 <sub>¹ Small caps and all caps are only for mixed case (bicameral scripts), and probably fits better under content. </sub>    
 <sub>² Writing system and text orientation could fit under font or content, possibly better with content. </sub>    
 <sub>³ Text decoration, such as underline, fits best under non-text, which is also probably best for link indication, but other decoration such as text-shadow or outline-text is probably better as part of font characteristics. </sub>
