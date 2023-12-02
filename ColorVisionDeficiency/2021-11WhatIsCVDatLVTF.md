@@ -1,4 +1,4 @@
-# CVD
+# CVD  (Nov 2021)
 ## What is Color Vision Deficiency?
 CVD is a condition wherein some of the "color sensing" cells of the retina are impaired or missing, resulting in difficulty discriminating between certain colors. Some variation of this condition affects an estimated 6% of the population, primarily males. However, it is important to know that the vast majority of CVD individuals can still see _some_ colors.
 
