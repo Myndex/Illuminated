@@ -1,20 +1,27 @@
-# Illuminated 💡
-A repo collecting the more substantial comments Myndex made regarding typography, CSS, color vision, contrast, web design, readability, DataViz, accessibility, etc.
+# 💡 Illuminated 🌟
+A repo collecting the more substantial comments, and ad hoc writing that Myndex made regarding typography, CSS, color vision, contrast, web design, readability, DataViz, accessibility, etc.
 
-## Background
-Most of the comments are from discussions related to the 2019 thru 2023 research cycle for Visual Contrast and APCA and related work. This repo is a work in progress, and some of what is in here are early research notes and discussions. As such, the ultimate conclusion or specific opinion may have shifted since it was originally written, as new information came to light. These later positions may not always be folded into the pieces here (a work in progress).
+## 🧩 Today's Puzzle
+_Which one of these five things does not belong?_     
+**_SUN — MOON — FLASHLIGHT — CANDLE — CAMPFIRE_**    
+## ☀️ — 🌖 — 🔦 — 🕯 — 🔥
 
-There are also informative files as [Gists][1], a working draft visual guideline at the [APC-Readability Criterion][2], articles at my [TangledWeb blog][3], and the [Myndex Color Resources Catalog][4]. The files here in this repo are mainly [Markdown][5], and will eventually be merged/organized into either a Wiki format or similar web-based work. 
+
+## 🌞 Background on this Repo
+Most of the comments are from discussions related to the 2019 thru 2023 research cycle for **Visual Contrast**, **APCA**, and related work. This repo is a work in progress, and some of what is in here comprise early research notes and discussions. As such, the ultimate conclusion or specific opinion may have shifted since it was originally written, as new information came to light. These later positions may not always be folded into the pieces here (a work in progress).
+
+There are also informative files here on GitHub as [Gists][1], the working-draft visual guideline at the [APC-Readability Criterion][2], articles at my [TangledWeb blog][3], and the [Myndex Color Resources Catalog][4]. The files here in this repo are mainly [Markdown][5], and will eventually be merged/organized into either a Wiki format or similar web-based work. 
 
 Please feel free to start a discussion in the discussions area if you have any questions or comments.
 
 -----
-**_Please do not copy or fork without written permission._**     
-The files here are under review to ensure accuracy, so at this time I would much prefer no forking, but please feel free to link to any as references, I intend to keep the file names as they are: 4 digit year- 1or 2 digit month and descriptive name: **` 0000-0PascalCaseName.md `**
+### ⚡️ _Please do not copy or fork without written permission._   
 
-Copyright © 2019-2023 by Andrew Somers. All Rights Reserved.   
+The files here are under review to ensure accuracy, so at this time I would much prefer no forking, but please feel free to link to any as references, I intend to keep the file names as they are: 4DigitYear - 1or2DigitMonth and DescriptiveName: **` 0000-0PascalCaseName.md `** The ` .md` becomes ` .html` with Jeckle, though the extension can be omitted in links as GItHUb or Jeckle will serve either `.md` or `.html` appropriately based on context. Or they won't.
 
-###### _References_ <br>➢&nbsp;&nbsp;[Github Gists][1] <br>➢&nbsp;&nbsp;[Inclusive Reading Technologies, Inc.][2]<br>➢&nbsp;&nbsp;[Tangled Web][3] <br>➢&nbsp;&nbsp;[Myndex Resources Catalog][4] <br>➢&nbsp;&nbsp;[Markdown Cheatsheet][5] <br>🔚
+Copyright © 2019-2023 by Andrew Somers. All Rights Reserved.    
+
+###### 🔆 _References_ 🌝<br>➢&nbsp;&nbsp;[Github Gists][1] <br>➢&nbsp;&nbsp;[Inclusive Reading Technologies, Inc.][2]<br>➢&nbsp;&nbsp;[Tangled Web][3] <br>➢&nbsp;&nbsp;[Myndex Resources Catalog][4] <br>➢&nbsp;&nbsp;[Markdown Cheatsheet][5] <br>🔚
 
 [1]: https://gist.github.com/Myndex
 [2]: https://readtech.org/ARC/
