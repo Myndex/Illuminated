@@ -1,8 +1,13 @@
 # 💡 Illuminated 🌟
-A repo collecting ad hoc writing and comments of Myndex, regarding typography, CSS, color vision, contrast, web design, readability, DataViz, accessibility, etc.
+A repo collecting ad hoc writing and comments of Myndex, regarding typography, CSS, color vision, contrast, web design, readability, DataViz, accessibility, etc.    <p align="left" class="por " style="margin: -36px 24px 12px">
+&emsp13;&emsp13;&emsp13;&emsp13;<img src="https://badgen.net/badge/INF&thinsp;/&#10148;/cc0066?labelColor=990033" alt="INFO" />&nbsp;<a href="https://git.myndex.com"><img src="https://badgen.net/badge/APCA/Resources/3300aa" alt="APCA Resources" /></a>&nbsp;<a href="https://readtech.org/ARC/"><img src="https://badgen.net/badge/APCA/Readability%20Criterion/ba12aa" alt="APCA Readability Criterion" /></a>&nbsp;<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/badge/APCA/Docs%20Repo/dd5500" alt="APCA/Documentation Repo" /></a><br>
+&emsp13;&emsp13;&emsp13;&emsp13;<img src="https://badgen.net/badge/APP/&#10148;/007700?labelColor=005500" alt="APPS" />&nbsp;<a href="https://apcacontrast.com"><img src="https://badgen.net/badge/APCA/Live%20Demo/dd5500" alt="APCA Live Demo" /></a>&nbsp;<a href="https://bridgepca.com"><img src="https://badgen.net/badge/BridgePCA/Live Demo/0055bb" alt="BPCA Live Demo" /></a>&nbsp;<a href="https://www.myndex.com/CVD/"><img src="https://badgen.net/badge/Color Blind/Simulator/bb0055" alt="CVD Simulator" /></a><br>
+&emsp13;&emsp13;&emsp13;&emsp13;<img src="https://badgen.net/badge/SCL/&#10148;/0000aa?labelColor=000088" alt="Social" />&nbsp;<a href="https://twitter.com/MyndexResearch"><img src="https://badgen.net/badge/@/OnTwitter?color=0066cc&icon=twitter" alt="twitter" /></a>&emsp13;<a href="https://techhub.social/@Myndex"><img src="https://badgen.net/badge/@/OnMastodon?color=6600cc&icon=mastodon" alt="mastodon" /></a>&emsp13;<a href="https://www.linkedin.com/in/andrew-m-somers/"><img src="https://badgen.net/badge/in&nbsp;@/LinkedIn?color=0066cc" alt="linkedin" /></a>&emsp13;<a href="https://bsky.app/profile/myndex.bsky.social"><img src="https://badgen.net/badge/•&nbsp;@/Bsky?color=2244ff" alt="bluesky" /></a><br>
+</p>
+
 
 ## 🧩 Today's Puzzle
-_Which one of these five things does not belong?_
+_Which one of these five things does not belong?_ 
 
 **_sun, moon, flashlight, candle, campfire_**    
 ## ☀️ — 🌖 — 🔦 — 🕯 — 🔥
