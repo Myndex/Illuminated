@@ -1,3 +1,6 @@
+# Nov 9, 2020 
+Response to WCAG PR 1500
+
 ### I disagree with these changes IN PART.
 
 While I certainly agree with the spirit of some of the changes, there is need of further revision IMO.
