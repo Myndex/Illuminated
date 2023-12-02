@@ -1,14 +1,15 @@
 # 💡 Illuminated 🌟
-A repo collecting the more substantial comments, and ad hoc writing that Myndex made regarding typography, CSS, color vision, contrast, web design, readability, DataViz, accessibility, etc.
+A repo collecting ad hoc writing and comments of Myndex, regarding typography, CSS, color vision, contrast, web design, readability, DataViz, accessibility, etc.
 
 ## 🧩 Today's Puzzle
-_Which one of these five things does not belong?_     
-**_SUN — MOON — FLASHLIGHT — CANDLE — CAMPFIRE_**    
+_Which one of these five things does not belong?_
+
+**_sun, moon, flashlight, candle, campfire_**    
 ## ☀️ — 🌖 — 🔦 — 🕯 — 🔥
 
 
 ## 🌞 Background on this Repo
-Most of the comments are from discussions related to the 2019 thru 2023 research cycle for **Visual Contrast**, **APCA**, and related work. This repo is a work in progress, and some of what is in here comprise early research notes and discussions. As such, the ultimate conclusion or specific opinion may have shifted since it was originally written, as new information came to light. These later positions may not always be folded into the pieces here (a work in progress).
+Most of the comments and writing herein are from discussions related to the 2019 thru 2023 research cycle for **Visual Contrast**, **APCA**, and related work. This repo is a work in progress, and some of what is in here comprise early research notes and discussions. As such, the ultimate conclusion or specific opinion may have shifted since it was originally written, as new information came to light. These later positions may not always be folded into the pieces here (a work in progress).
 
 There are also informative files here on GitHub as [Gists][1], the working-draft visual guideline at the [APC-Readability Criterion][2], articles at my [TangledWeb blog][3], and the [Myndex Color Resources Catalog][4]. The files here in this repo are mainly [Markdown][5], and will eventually be merged/organized into either a Wiki format or similar web-based work. 
 
