@@ -1,4 +1,5 @@
 # Q&A on Weber
+Sept 13, 2022
 The following exchage was in reply to my article ["The Realities And Myths Of Contrast And Color"](https://www.smashingmagazine.com/2022/09/realities-myths-contrast-color/)
 
 > ### Tobias Bengfort wrote — september 12, 2022 18:39 #
@@ -6,12 +7,11 @@ The following exchage was in reply to my article ["The Realities And Myths Of Co
 >
 > _The only thing I don't agree with is that _"WCAG 2 contrast maths do not predict the contrast of text in accordance with human perception"_. WCAG 2 is based on the Weber-Fechner law which is an older but still very useful model of human perception._
 >
-> _WCAG 2 is optimized for dark viewing conditions, APCA is optimized for bright viewing conditions [See: APCA  (directed to correct analysis)](https://github.com/Myndex/apca-introduction/blob/main/analysis.md). That is the reason why the two approaches have different results for dark color pairs. This doesn't mean that WCAG 2 is wrong._
+> _WCAG 2 is optimized for dark viewing conditions, APCA is optimized for bright viewing conditions [See: APCA  (directed to corrected analysis)](https://github.com/Myndex/apca-introduction/blob/main/analysis.md). That is the reason why the two approaches have different results for dark color pairs. This doesn't mean that WCAG 2 is wrong._
 ----
 
-## Andrew Somers (Article Author)
-
-Andrew Somers (Article Author) wrote — september 13, 2022 18:03
+## Andrew Somers (Article Author) Reply
+September 13, 2022 18:03
 
 Thank you for the comment Tobias, though I believe there are some misunderstandings here.
 
